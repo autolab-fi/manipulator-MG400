@@ -1,8 +1,8 @@
 {
-    "fullCourseName":"full name of the course",
-    "shortCourseName":"CourseName", 
-    "shortDescription":"It is short description. It should be up to 160 characters.",
-    "fullDescription":"it is full description. It should be about 500 characters.",
+    "fullCourseName":"Manipulator Dobot MG400",
+    "shortCourseName":"Manipulator MG400", 
+    "shortDescription":"Learn to operate the Dobot MG400 manipulator, programming and practical applications. Perfect for beginners and professionals.",
+    "fullDescription":"Explore the Dobot MG400 manipulator in this course, where you'll learn to set up and operate the robot, program it using Lua, and simulate tasks with RoboDK. Starting with the basics of robot, the course advances to detailed programming tutorials and real-world applications. Perfect for beginners and experienced users, this course provides hands-on experience and practical knowledge to efficiently utilize the Dobot MG400 in various industrial and educational settings.",
     "imageSmall":"https://github.com/autolab-fi/course-template/blob/main/images/course-info/image_640_360.jpg?raw=true",
     "imageBig":"https://github.com/autolab-fi/course-template/blob/main/images/course-info/image_1920_1080.jpg?raw=true",
     "workload":"0 hours",
