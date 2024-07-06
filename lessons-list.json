@@ -1,9 +1,18 @@
 [
     {
-        "str_id": "manipulator-draw",
-        "name": "Draw",
-        "url": "https://raw.githubusercontent.com/autolab-fi/manipulator-MG400/main/lessons/module-1/lesson-example.md",
+        "name":"Introduction to the Robot",
+        "description": "Getting familiar with the platform and learning how to control the robot.",
         "sn": 0,
-        "module": "module-1"
+        "str_id":"module_0",
+        "lessons":[
+            {
+                "str_id": "manipulator-draw",
+                "name": "Draw",
+                "url": "https://raw.githubusercontent.com/autolab-fi/manipulator-MG400/main/lessons/module-1/lesson-example.md",
+                "sn": 0,
+                "module": "module-1",
+                "description": "How to control manipulator movement using lua script."
+            }
+        ]
     }
 ]
