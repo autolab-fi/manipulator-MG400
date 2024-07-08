@@ -36,6 +36,3 @@ Course info:
 - *imageBig*: URL for the large image (approximately 1920x1080 px).
 - *workload*: Estimated time required to complete the course.
 - *programmingLanguage*: string identifyer of programming language used in course.
-
-## Library for the course
-Library for the course is [here](https://github.com/autolab-fi/LineRobotLibrary)
