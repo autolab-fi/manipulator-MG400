@@ -9,7 +9,7 @@ The Dobot MG400 is a compact robotic arm designed for desktop applications in au
 
 More info about manipulator you can find [here](https://www.dobot-robots.com/products/desktop-four-axis/mg400.html).
 
-## Programming manipulator
+## Programming manipulator with lua
 
 Programming the Dobot MG400 with Lua script offers a powerful and flexible approach to automating tasks. Lua scripting allows you to write custom commands and functions to control the robotic arm with high precision and efficiency.
 
@@ -26,6 +26,13 @@ It is a test lesson with automatic verification. First, your code will be upload
 
 Here is a code example for moving the robot to the specified point:
 
-```lua
-MovJ({coordinate={270,-120,-110,0}})
-```
+Follow these instructions to upload the code to the robot:
+1. Copy the code below:
+    ```lua
+    MovJ({coordinate={270, -120, -110, 0}})
+    ```
+2. Paste the code into the code editor.
+3. Click the "Verify" button and wait for the result.
+
+# Conclusion
+In this lesson, you learned about the Dobot MG400 robotic arm and how to program it using Lua scripts. You also explored the benefits of using RoboDK for simulating and generating Lua scripts.
