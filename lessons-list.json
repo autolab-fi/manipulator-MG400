@@ -3,12 +3,12 @@
         "name":"Introduction to the Robot",
         "description": "Getting familiar with the platform and learning how to control the robot.",
         "sn": 0,
-        "str_id":"module_0",
+        "str_id":"module_1",
         "lessons":[
             {
-                "str_id": "lesson_0",
+                "str_id": "test_1",
                 "name": "Lesson example",
-                "url": "https://raw.githubusercontent.com/autolab-fi/manipulator-MG400/main/lessons/module-1/lesson-example.md",
+                "url": "https://raw.githubusercontent.com/autolab-fi/manipulator-MG400/main/lessons/module-1/test_lesson.md",
                 "sn": 0,
                 "description": "How to control manipulator movement using lua script."
             }
