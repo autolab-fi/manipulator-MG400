@@ -10,7 +10,8 @@
                 "name": "Lesson example",
                 "url": "https://raw.githubusercontent.com/autolab-fi/manipulator-MG400/main/lessons/module-1/test_lesson.md",
                 "sn": 0,
-                "description": "How to control manipulator movement using lua script."
+                "description": "How to control manipulator movement using lua script.",
+                "template": "-- write your code here"
             }
         ]
     }
