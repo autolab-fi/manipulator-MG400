@@ -11,8 +11,7 @@ In this lesson provided commands and program example. Program will be executing 
 ### Motion Commands
 1. **MoveJ()** - Moves the robot to a target point using joint space interpolation.
 2. **MoveL()** - Moves the robot to a target point using linear interpolation.
-3. **MoveC()** - Moves the robot along an arc to a target point.
-4. **Sync()** - Waits for all previous commands to complete before proceeding to the next command.
+3. **Sync()** - Waits for all previous commands to complete before proceeding to the next command.
 
 ### IO Commands
 1. **DO(index,ON|OFF)** - Set the status of digital output port. ON/OFF: status of the DO port. ON: High level; OFF: Low level
