@@ -33,6 +33,6 @@ motion is completed. time: delay time, unit: ms
 control.
 5. **Systime()** - Get the current system time
 
-These commands form the basis of robot control through scripting. For more complex operations, you can define custom functions or handle parallel tasks using sub-threads.
+These commands form the basis of robot control through scripting.
 
 If you need a more detailed list of available commands or further information on how to use them, you can refer to the Lua section in the [CRStudio user guide](https://download.dobot.cc/2024/04/Dobot%20CRStudio%20User%20Guide%20%28MG400%26M1%20Pro%29_V4.13.0_2.14.0_20240311_en.pdf).
