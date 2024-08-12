@@ -12,6 +12,14 @@
                 "sn": 0,
                 "description": "How to control manipulator movement using lua script.",
                 "template": "-- write your code here"
+            },
+            {
+                "str_id": "sandbox",
+                "name": "Sandbox",
+                "url": "https://raw.githubusercontent.com/autolab-fi/manipulator-MG400/main/lessons/module-1/sandbox_lesson.md",
+                "sn": 1,
+                "description": "Experiment with a robot manipulator in a sandbox environment.",
+                "template": "-- write your code here"
             }
         ]
     }
