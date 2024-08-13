@@ -42,8 +42,11 @@ These commands form the basis of robot control through scripting. For a more det
 The workspace of the MG400 manipulator defines the maximum reach and operational limits of the robot. Here are the maximum points within its workspace that can be set in code:
 
 X-Axis: -150 mm to +350 mm
+
 Y-Axis: -150 mm to +150 mm
+
 Z-Axis: -25 mm to +400 mm
+
 Rotation (R-Axis): -360° to +360°
 
 ![workspace-1.png](https://github.com/autolab-fi/manipulator-mg400/blob/main/images/module-1/workspace-1.png?raw=true)
@@ -71,3 +74,8 @@ MovJ({-40,70,75,90}, parameters)
 MovJ({-40,70,75,-90}, parameters)
 
 ```
+
+## Conclusion
+
+By experimenting with these commands and the provided code, you can test manipulator.
+
