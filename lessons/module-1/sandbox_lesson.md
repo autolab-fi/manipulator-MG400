@@ -46,9 +46,9 @@ Y-Axis: -150 mm to +150 mm
 Z-Axis: -25 mm to +400 mm
 Rotation (R-Axis): -360° to +360°
 
-![workspace-1.png](https://github.com/autolab-fi/course-template/blob/main/images/module-1/workspace-1.png?raw=true)
+![workspace-1.png](https://github.com/autolab-fi/manipulator-mg400/blob/main/images/module-1/workspace-1.png?raw=true)
 
-![workspace-2.png](https://github.com/autolab-fi/course-template/blob/main/images/module-1/workspace-2.png?raw=true)
+![workspace-2.png](https://github.com/autolab-fi/manipulator-mg400/blob/main/images/module-1/workspace-2.png?raw=true)
 
 ## Code example
 
