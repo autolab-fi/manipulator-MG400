@@ -4,7 +4,7 @@
 Experiment with a robot manipulator in a sandbox environment.
 
 ## Introduction
-In this lesson, you'll be introduced to various commands and provided with a sample program to experiment with. The program will execute for 45 seconds, allowing you to observe the robot's movements and interactions.
+In this lesson, you'll be introduced to various commands and provided with a sample program to experiment with. The program will execute for 25 seconds, allowing you to observe the robot's movements and interactions.
 
 
 ## Commands List

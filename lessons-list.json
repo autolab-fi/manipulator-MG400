@@ -19,7 +19,7 @@
                 "url": "https://raw.githubusercontent.com/autolab-fi/manipulator-MG400/main/lessons/module-1/sandbox_lesson.md",
                 "sn": 1,
                 "description": "Experiment with a robot manipulator in a sandbox environment.",
-                "template": "-- Adjust speed parameters\nlocal parameters={CP=1, SpeedJ=20, AccJ=10, SpeedL=20, AccL=10}\n\n-- Command sequence to move the robot through various positions\nMovL({coordinate={270, -120, -110, 0}}, parameters)\nMovL({coordinate={220, -120, -110, 0}}, parameters)\nMovL({coordinate={220, -70, -110, 0}}, parameters)\nMovL({coordinate={270, -70, -110, 0}}, parameters)\nMovL({coordinate={270, -120, -110, 0}}, parameters)\n\n-- Rotate the R-AxisMovL({coordinate={270, -120, -110, 90}}, parameters)\nMovL({coordinate={270, -120, -110, 180}}, parameters)\nMovL({coordinate={270, -120, -110, -90}}, parameters)\n"
+                "template": "-- Adjust speed parameters\nlocal parameters={CP=1, SpeedJ=20, AccJ=10, SpeedL=20, AccL=10}\n\n-- Command sequence to move the robot through various positions\nMovL({coordinate={270, -120, -110, 0}}, parameters)\nMovL({coordinate={220, -120, -110, 0}}, parameters)\nMovL({coordinate={220, -70, -110, 0}}, parameters)\nMovL({coordinate={270, -70, -110, 0}}, parameters)\nMovL({coordinate={270, -120, -110, 0}}, parameters)\n\n-- Rotate the R-Axis\nMovL({coordinate={270, -120, -110, 90}}, parameters)\nMovL({coordinate={270, -120, -110, 180}}, parameters)\nMovL({coordinate={270, -120, -110, -90}}, parameters)\n"
             }
         ]
     }
