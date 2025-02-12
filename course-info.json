@@ -1,7 +1,7 @@
 {
     "fullCourseName":"Manipulator Dobot MG400 @ HAMK",
     "shortCourseName":"Manipulator MG400 @ HAMK", 
-    "shortDescription":"Learn to operate the Dobot MG400 manipulator, programming and practical applications. Perfect for beginners and professionals.",
+    "shortDescription":"Learn to operate the Dobot MG400 manipulator, LUA programming and practical applications. Developed in cooperation with HAMK",
     "fullDescription":"Explore the Dobot MG400 manipulator in this course, where you'll learn to set up and operate the robot, program it using Lua, and simulate tasks with RoboDK. Starting with the basics of robot, the course advances to detailed programming tutorials and real-world applications. Perfect for beginners and experienced users, this course provides hands-on experience and practical knowledge to efficiently utilize the Dobot MG400 in various industrial and educational settings.",
     "imageSmall":"https://github.com/autolab-fi/manipulator-MG400/blob/main/images/course-info/mg400-hamk-ondroid-640-360.jpg?raw=true",
     "imageBig":"https://github.com/autolab-fi/manipulator-MG400/blob/main/images/course-info/mg400-hamk-ondroid-1920-1080.jpg?raw=true",
